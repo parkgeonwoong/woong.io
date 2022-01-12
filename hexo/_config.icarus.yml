@@ -263,9 +263,9 @@ widgets:
     type: links
     # Names and URLs of the sites
     links:
-      Git: "https://github.com/parkgeonwoong"
-      Hexo: "https://hexo.io"
-      Bulma: "https://bulma.io"
+      Github: "https://github.com/parkgeonwoong"
+      # Hexo: "https://hexo.io"
+      # Bulma: "https://bulma.io"
   # Categories widget configurations
   - # Where should the widget be placed, left sidebar or right sidebar
     position: left
