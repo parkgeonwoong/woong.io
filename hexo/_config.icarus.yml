@@ -111,9 +111,9 @@ navbar:
     About: /about
   # Links to be shown on the right of the navigation bar
   links:
-    Download on GitHub:
-      icon: fab fa-github
-      url: "https://github.com/parkgeonwoong"
+    # Download on GitHub:
+    #   icon: fab fa-github
+    #   url: "https://github.com/parkgeonwoong"
 # Page footer configurations
 footer:
   # Links to be shown on the right of the footer section
