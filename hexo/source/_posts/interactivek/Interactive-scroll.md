@@ -2,6 +2,7 @@
 title: Interactive-scroll
 date: 2022-01-15 13:32:27
 tags:
+toc: true
 categories:
   - Interactive
 ---
@@ -15,6 +16,8 @@ categories:
 `Parallax Scrolling` : 사용자가 스크롤할 때 배경 이미지가 느리게 움직이며, 근거리를 빨리 움직이는 즉 입체감을 느낄 수 있는 디자인 기법
 
 - 스크롤을 움직일 때마다 transform의 translate, scale, opacity 등 변화를 직접 준다.
+
+<!-- more -->
 
 <br>
 

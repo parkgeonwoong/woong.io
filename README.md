@@ -28,6 +28,16 @@ categories:
    - Test
    - test (이게 하위로 들어간다)
 ---
+
+# post 안에 목차
+---
+...
+toc: true
+---
+
+# post 내용 일정 부분 숨기기
+post 안에
+<!-- more -- >
 ```
 
 <br>

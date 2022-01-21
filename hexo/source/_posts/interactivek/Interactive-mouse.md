@@ -2,6 +2,7 @@
 title: Interactive mouse
 date: 2022-01-14 21:42:16
 tags:
+toc: true
 categories:
   - Interactive
 ---
@@ -17,6 +18,8 @@ window.addEventListener("mousemove", function(e) {
 ```
 
 - 위에 처럼 마우스 X, Y 좌표가 직접 console에 찍힌다.
+
+<!-- more -->
 
 <br>
 

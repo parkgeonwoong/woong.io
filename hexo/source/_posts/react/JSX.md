@@ -5,6 +5,7 @@ tags:
 categories:
   - React
   - Document
+toc: true
 ---
 
 # 📌JSX
@@ -22,6 +23,8 @@ categories:
     - [🔸 인라인 스타일링](#-인라인-스타일링)
 
 <br>
+
+<!-- more -->
 
 - src/APP.js 불러오기
 - import로 불러오는 기능을 브라우저에서도 사용하기 위해 번들러를 사용

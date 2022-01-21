@@ -5,6 +5,7 @@ tags:
 categories:
   - React
   - Document
+toc: true
 ---
 
 # 📌React Document
@@ -24,6 +25,8 @@ categories:
     - [✅ Create React APP](#-create-react-app)
 
 <br>
+
+<!-- more -->
 
 ### ✅ 선언형
 
