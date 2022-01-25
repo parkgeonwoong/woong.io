@@ -38,6 +38,10 @@ toc: true
 # post 내용 일정 부분 숨기기
 post 안에
 <!-- more -- >
+
+# 이미지 경로
+1. 이미지 파일은 source/images에 업로드 후
+2. ![](/images/http.PNG) 같이 사용
 ```
 
 <br>
