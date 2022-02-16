@@ -8,28 +8,28 @@ categories:
 ---
 
 - [✅ 전송 방식](#-전송-방식)
-    - [🔸 단순 전송](#-단순-전송)
-    - [🔸 압축 전송](#-압축-전송)
-    - [🔸 분할 전송](#-분할-전송)
-    - [🔸 범위 전송](#-범위-전송)
+  - [🔸 단순 전송](#-단순-전송)
+  - [🔸 압축 전송](#-압축-전송)
+  - [🔸 분할 전송](#-분할-전송)
+  - [🔸 범위 전송](#-범위-전송)
 - [✅ 일반 정보](#-일반-정보)
-    - [🔸 From](#-from)
-    - [🔸 Referer](#-referer)
-    - [🔸 User-Agent](#-user-agent)
-    - [🔸 Server](#-server)
-    - [🔸 Date](#-date)
+  - [🔸 From](#-from)
+  - [🔸 Referer](#-referer)
+  - [🔸 User-Agent](#-user-agent)
+  - [🔸 Server](#-server)
+  - [🔸 Date](#-date)
 - [✅ 특별한 정보 헤더](#-특별한-정보-헤더)
-    - [🔸 Host](#-host)
-    - [🔸 Location](#-location)
-    - [🔸 Allow](#-allow)
-    - [🔸 Retry-After](#-retry-after)
+  - [🔸 Host](#-host)
+  - [🔸 Location](#-location)
+  - [🔸 Allow](#-allow)
+  - [🔸 Retry-After](#-retry-after)
 
 <!-- more -->
 
 <br>
 
-# ✅ 전송 방식
-
+## ✅ 전송 방식
+<!-- ## 🔹종류 -->
 - 단순 전송
 - 압축 전송
 - 분할 전송
@@ -61,7 +61,9 @@ categories:
 
 - 바이트 단위로 쪼개서 분할해 보낸다
 
+
 <br>
+
 
 ### 🔸 범위 전송
 
@@ -69,9 +71,11 @@ categories:
 
 어떤 데이터를 전달하다가 끊겼을 때, 끊긴 데이터만 범위로 지정해서 보내는 것
 
+
+
 <br>
 
-# ✅ 일반 정보
+## ✅ 일반 정보
 
 - From: 유저 에이전트의 이메일 정보
 - Referer: 이전 웹 페이지 주소
@@ -134,7 +138,7 @@ categories:
 
 <br>
 
-# ✅ 특별한 정보 헤더
+## ✅ 특별한 정보 헤더
 
 - Host : 요청한 호스트 정보 (도메인)
 - Location : 페이지 리다이렉션
